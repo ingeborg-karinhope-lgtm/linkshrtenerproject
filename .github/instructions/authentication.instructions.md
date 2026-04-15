@@ -1,3 +1,6 @@
+---
+description: Les denne filen for å forstå hvordan autentisering fungerer i prosjektet. Og hvis det skal gjlres endringer i autentiseringslogikken, les denne filen først for å forstå hvordan det fungerer.
+---
 # Autentisering med Clerk
 
 All autentisering og autorisasjon i denne applikasjonen håndteres **utelukkende av Clerk**.  

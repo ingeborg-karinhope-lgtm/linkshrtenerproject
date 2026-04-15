@@ -1,3 +1,7 @@
+---
+  description: Les denne filen for å forstå hvordan UI-komponenter skal brukes i prosjektet. Alle UI-elementer må følge disse retningslinjene for å sikre konsistens og vedlikeholdbarhet.
+  ---
+
 # UI-komponenter med shadcn/ui
 
 Alle UI-elementer i denne applikasjonen skal bruke **shadcn/ui**. Egenutviklede komponenter er **ikke tillatt**.
